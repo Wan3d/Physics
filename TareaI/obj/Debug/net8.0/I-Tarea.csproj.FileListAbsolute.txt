@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\obj\Debug\net8.0\I-Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\obj\Debug\net8.0\I-Tarea.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\obj\Debug\net8.0\I-Tarea.AssemblyInfo.cs
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\obj\Debug\net8.0\I-Tarea.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\bin\Debug\net8.0\I-Tarea.exe
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\bin\Debug\net8.0\I-Tarea.deps.json
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\bin\Debug\net8.0\I-Tarea.runtimeconfig.json
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\bin\Debug\net8.0\I-Tarea.dll
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\bin\Debug\net8.0\I-Tarea.pdb
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\obj\Debug\net8.0\I-Tarea.dll
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\obj\Debug\net8.0\refint\I-Tarea.dll
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\obj\Debug\net8.0\I-Tarea.pdb
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\obj\Debug\net8.0\I-Tarea.genruntimeconfig.cache
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\obj\Debug\net8.0\ref\I-Tarea.dll
+C:\Users\HP\Desktop\IV - Semestre\Física (Códigos)\TareaI\obj\Debug\net8.0\I-Tarea.sourcelink.json
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\bin\Debug\net8.0\I-Tarea.exe
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\bin\Debug\net8.0\I-Tarea.deps.json
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\bin\Debug\net8.0\I-Tarea.runtimeconfig.json
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\bin\Debug\net8.0\I-Tarea.dll
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\bin\Debug\net8.0\I-Tarea.pdb
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\obj\Debug\net8.0\I-Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\obj\Debug\net8.0\I-Tarea.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\obj\Debug\net8.0\I-Tarea.AssemblyInfo.cs
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\obj\Debug\net8.0\I-Tarea.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\obj\Debug\net8.0\I-Tarea.sourcelink.json
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\obj\Debug\net8.0\I-Tarea.dll
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\obj\Debug\net8.0\refint\I-Tarea.dll
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\obj\Debug\net8.0\I-Tarea.pdb
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\obj\Debug\net8.0\I-Tarea.genruntimeconfig.cache
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaI\obj\Debug\net8.0\ref\I-Tarea.dll

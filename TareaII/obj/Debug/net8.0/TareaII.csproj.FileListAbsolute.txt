@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\obj\Debug\net8.0\TareaII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\obj\Debug\net8.0\TareaII.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\obj\Debug\net8.0\TareaII.AssemblyInfo.cs
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\obj\Debug\net8.0\TareaII.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\bin\Debug\net8.0\TareaII.exe
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\bin\Debug\net8.0\TareaII.deps.json
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\bin\Debug\net8.0\TareaII.runtimeconfig.json
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\bin\Debug\net8.0\TareaII.dll
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\bin\Debug\net8.0\TareaII.pdb
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\obj\Debug\net8.0\TareaII.dll
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\obj\Debug\net8.0\refint\TareaII.dll
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\obj\Debug\net8.0\TareaII.pdb
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\obj\Debug\net8.0\TareaII.genruntimeconfig.cache
+C:\Users\HP\Desktop\IV - Semestre\Física\UI\TareaII\obj\Debug\net8.0\ref\TareaII.dll
